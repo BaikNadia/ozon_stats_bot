@@ -11,6 +11,16 @@
 Цель системы: автоматический сбор, анализ и представление статистики 
 по заказам Ozon с удобными интерфейсами для пользователей и администраторов.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/BaikNadia/ozon_stats_bot)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
+
+**Полная система мониторинга статистики Ozon с Telegram ботом и веб-панелью**
+
+**Автор:** [BaikNadia](https://github.com/BaikNadia)  
+**Репозиторий:** https://github.com/BaikNadia/ozon_stats_bot  
+**Лицензия:** Creative Commons Attribution 4.0 International
+
 ## 🏗️ Архитектура приложения
 ozon_stats_bot/
 ├── 🤖 telegram_bot.py              # Основной модуль Telegram бота
