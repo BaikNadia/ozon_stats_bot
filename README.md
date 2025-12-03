@@ -200,7 +200,7 @@ Git (опционально)
 
 Шаг 1: Клонирование и настройка
  Клонировать репозиторий (если есть)
-git clone <repository-url>
+git clone https://github.com/BaikNadia/ozon_stats_bot
 cd ozon_bot
 
  Или создать структуру вручную
@@ -404,6 +404,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 При условии:
 Указания авторства — Вы должны указать авторство, предоставить ссылку на лицензию и обозначить изменения, если они были сделаны
+**Автор:** [BaikNadia](https://github.com/BaikNadia)  
+**Репозиторий:** https://github.com/BaikNadia/ozon_stats_bot  
+**Лицензия:** Creative Commons Attribution 4.0 International
 
 Полный текст лицензии:
 Полный юридический текст лицензии доступен по адресу:
